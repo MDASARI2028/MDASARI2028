@@ -73,8 +73,8 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MDASARI2028&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=22c55e&icon_color=22c55e" height="180" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MDASARI2028&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=22c55e&icon_color=22c55e" height="180" alt="languages graph" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=MDASARI2028&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=22c55e&icon_color=22c55e" height="180" alt="stats graph" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=MDASARI2028&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=22c55e&icon_color=22c55e" height="180" alt="languages graph" />
 </div>
 <br />
 <div align="center">
